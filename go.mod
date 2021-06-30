@@ -1,4 +1,4 @@
-module github.com/nikolaydubina/calendarheatmap
+module github.com/jharlap/calendarheatmap
 
 go 1.16
 
