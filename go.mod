@@ -1,4 +1,4 @@
-module github.com/jharlap/calendarheatmap
+module github.com/jharlap/calendarheatmap/v2
 
 go 1.16
 
